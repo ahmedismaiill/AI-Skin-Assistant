@@ -1,0 +1,11 @@
+precision    recall  f1-score   support
+
+        acne       0.90      0.92      0.91       309
+  dark spots       0.94      0.93      0.93       319
+    wrinkles       0.97      0.99      0.98       298
+       pores       0.97      0.99      0.98       244
+ blackheades       0.95      0.91      0.93       296
+
+    accuracy                           0.95      1466
+   macro avg       0.95      0.95      0.95      1466
+weighted avg       0.95      0.95      0.95      1466

@@ -1,0 +1,61 @@
+﻿RoutineID,RoutineName,SkinType,Concern,TimeOfDay,Steps,Tips
+1,Acne Control Morning Routine,Oily,Acne,Morning,Cleanse with salicylic acid cleanser → Apply niacinamide serum → Use lightweight moisturizer → Apply SPF 50 sunscreen,Avoid touching your face throughout the day and clean your phone screen often.
+2,Acne Control Night Routine,Oily,Acne,Night,Double cleanse → Apply exfoliating toner → Use retinol serum → Moisturize with non-comedogenic cream,Introduce retinol slowly (2–3 times/week) to prevent irritation.
+3,Hydration Boost Routine,Dry,Dryness,Morning,Cleanse with hydrating cream cleanser → Apply hyaluronic acid serum → Use ceramide-rich moisturizer → Apply SPF 30 sunscreen,Avoid hot water when washing your face to prevent moisture loss.
+4,Even Tone Morning Routine,Normal,Dark Spots,Morning,Use gentle foaming cleanser → Apply vitamin C serum → Moisturize → Use SPF 50 sunscreen,Consistency with vitamin C is key for fading dark spots.
+5,Even Tone Night Routine,Normal,Dark Spots,Night,Cleanse → Apply glycolic acid toner → Use niacinamide serum → Moisturize with brightening cream,Avoid layering vitamin C and glycolic acid in the same routine.
+6,Wrinkle Repair Morning Routine,Dry,Wrinkles,Morning,Cleanse with creamy cleanser → Apply antioxidant serum → Use peptide moisturizer → Apply SPF 50 sunscreen,Wear sunscreen daily to prevent further aging.
+7,Wrinkle Repair Night Routine,Dry,Wrinkles,Night,Double cleanse → Apply retinol serum → Use peptide night cream → Apply eye cream,Start with low-strength retinol and use 2–3 nights a week.
+8,Sensitive Skin Morning Routine,Sensitive,Redness,Morning,Cleanse with fragrance-free cleanser → Apply soothing toner → Use centella serum → Moisturize with barrier-repair cream → Apply mineral sunscreen,Avoid products with alcohol or fragrance.
+9,Sensitive Skin Night Routine,Sensitive,Redness,Night,Cleanse gently → Apply hydrating toner → Use niacinamide serum → Moisturize heavily,Patch test any new product before using it on the face.
+10,Oil Control Morning Routine,Oily,Pores,Morning,Cleanse with foaming cleanser → Apply niacinamide serum → Use oil-free moisturizer → Apply matte sunscreen,"Avoid over-cleansing, which can cause rebound oiliness."
+11,Oil Control Night Routine,Oily,Pores,Night,Double cleanse → Apply exfoliating toner → Use salicylic acid serum → Moisturize lightly,Use clay masks twice a week to reduce excess oil.
+12,Blackhead Clearing Routine,Oily,Blackheads,Morning,Cleanse with BHA cleanser → Apply niacinamide serum → Moisturize → Use sunscreen,Do not squeeze blackheads; use BHA products consistently instead.
+13,Blackhead Clearing Night Routine,Oily,Blackheads,Night,Double cleanse → Apply exfoliating toner → Use retinoid serum → Apply gel moisturizer,Steam your face once a week to help unclog pores gently.
+14,Glow Boost Morning Routine,Normal,Dullness,Morning,Cleanse with vitamin C cleanser → Apply brightening serum → Use hydrating moisturizer → Apply SPF 50 sunscreen,Exfoliate twice a week to enhance glow.
+15,Glow Boost Night Routine,Normal,Dullness,Night,Cleanse → Apply exfoliating toner → Use vitamin C serum → Moisturize,Use silk pillowcases to reduce friction and irritation.
+16,Anti-Pore Routine,Oily,Pores,Morning,Cleanse with clay cleanser → Apply pore-minimizing toner → Use niacinamide serum → Apply gel moisturizer → Use sunscreen,Avoid heavy oils that can clog pores.
+17,Anti-Pore Night Routine,Oily,Pores,Night,Double cleanse → Apply BHA toner → Use retinoid → Moisturize lightly,Exfoliate twice a week to keep pores clean and refined.
+18,Dark Spot Fading Routine,Combination,Dark Spots,Morning,Cleanse → Apply vitamin C serum → Moisturize with SPF moisturizer,Apply sunscreen even on cloudy days to prevent pigmentation.
+19,Dark Spot Night Repair Routine,Combination,Dark Spots,Night,Cleanse → Use glycolic acid toner → Apply niacinamide serum → Moisturize,Avoid picking pimples to prevent new dark marks.
+20,Anti-Wrinkle Routine,Normal,Wrinkles,Morning,Cleanse → Apply antioxidant serum → Moisturize → Use SPF 50 sunscreen,Massage your face gently to improve circulation.
+21,Anti-Wrinkle Night Routine,Normal,Wrinkles,Night,Cleanse → Apply retinol serum → Moisturize with peptide cream,Always use sunscreen in the morning after retinol nights.
+22,Hydrating Routine for Sensitive Skin,Sensitive,Dryness,Morning,Cleanse with micellar water → Apply hyaluronic acid serum → Use barrier cream → Apply mineral SPF,Keep your routine simple to avoid irritation.
+23,Hydrating Routine for Sensitive Skin,Sensitive,Dryness,Night,Cleanse gently → Apply ceramide serum → Use nourishing cream,Avoid exfoliating acids if your skin barrier is damaged.
+24,Matte Finish Morning Routine,Oily,Shine,Morning,Cleanse with foaming cleanser → Apply niacinamide serum → Use oil-control moisturizer → Apply SPF 50 matte sunscreen,"Blot excess oil with tissue, not with alcohol wipes."
+25,Soothing Night Routine,Sensitive,Redness,Night,Cleanse → Apply calming toner → Use centella serum → Moisturize,Store your moisturizer in the fridge for a cooling effect.
+26,Deep Pore Cleansing Morning Routine,Oily,Pores,Morning,Cleanse with clay or charcoal cleanser → Apply pore-tightening toner → Use niacinamide serum → Apply oil-free moisturizer → Use SPF 50 sunscreen,Avoid using pore strips daily; they can irritate the skin.
+27,Deep Pore Night Routine,Oily,Pores,Night,Double cleanse with micellar and gel cleanser → Apply BHA toner → Use retinol serum → Moisturize lightly,Use a clay mask twice weekly to purify pores.
+28,Acne + Pore Care Morning Routine,Combination,Acne & Pores,Morning,Cleanse with salicylic acid cleanser → Apply niacinamide + zinc serum → Moisturize with oil-free cream → Apply SPF 50 sunscreen,Use blotting papers instead of overwashing to control oil.
+29,Acne + Pore Care Night Routine,Combination,Acne & Pores,Night,Cleanse twice → Apply AHA/BHA toner → Use adapalene or retinoid → Apply lightweight gel moisturizer,Always hydrate your skin after using exfoliating acids.
+30,Blackhead Prevention Morning Routine,Oily,Blackheads,Morning,Cleanse with salicylic acid cleanser → Apply niacinamide serum → Use gel-based moisturizer → Apply sunscreen,Avoid comedogenic products that can clog pores.
+31,Blackhead Prevention Night Routine,Oily,Blackheads,Night,Double cleanse → Use clay mask → Apply retinoid serum → Use soothing moisturizer,Steam your face once weekly to loosen clogged pores.
+32,Minimize Large Pores Morning Routine,Combination,Pores,Morning,Cleanse with gentle foaming wash → Apply witch hazel toner → Use niacinamide serum → Moisturize with SPF lotion,Cold compress can temporarily tighten pores.
+33,Minimize Large Pores Night Routine,Combination,Pores,Night,Cleanse → Apply BHA exfoliant → Use retinol serum → Moisturize lightly,Exfoliate regularly but don’t overdo it to avoid irritation.
+34,Post-Acne Pore Routine,Combination,Pores & Acne Scars,Morning,Cleanse with brightening cleanser → Apply vitamin C serum → Moisturize with SPF 50,Vitamin C helps improve texture and refine pores over time.
+35,Post-Acne Pore Routine,Combination,Pores & Acne Scars,Night,Cleanse → Apply glycolic acid toner → Use niacinamide serum → Moisturize,Avoid mixing retinol and acids in the same routine.
+36,Daily Refining Morning Routine,Normal,Pores,Morning,Cleanse with gentle foaming cleanser → Apply niacinamide + green tea serum → Use oil-free moisturizer → Apply sunscreen,Drink enough water; dehydration can increase oiliness.
+37,Daily Refining Night Routine,Normal,Pores,Night,Double cleanse → Apply exfoliating toner → Use retinoid → Moisturize with light cream,Use silicone-free moisturizers to prevent clogged pores.
+38,Anti-Pollution Morning Routine,Combination,Pores,Morning,Cleanse with antioxidant cleanser → Apply vitamin C serum → Use oil-control moisturizer → Apply SPF 50 sunscreen,Pollution can worsen clogged pores—cleanse thoroughly every night.
+39,Anti-Pollution Night Routine,Combination,Pores,Night,Double cleanse → Apply detox mask → Use hyaluronic serum → Apply night cream,Don’t skip moisturizer after masks; balance is key.
+40,Refined Texture Morning Routine,Oily,Pores,Morning,Cleanse → Apply niacinamide + zinc serum → Use gel moisturizer → Apply SPF,Use ice rollers to reduce puffiness and shrink pores.
+41,Refined Texture Night Routine,Oily,Pores,Night,Double cleanse → Apply exfoliating toner → Use retinol → Moisturize lightly,Retinol strengthens skin and refines pore appearance over time.
+42,Soothing Pore Routine,Sensitive,Pores,Morning,Cleanse with mild cleanser → Apply calming toner → Use centella serum → Moisturize with SPF cream,Avoid harsh scrubs; gentle care keeps pores clear.
+43,Soothing Pore Routine,Sensitive,Pores,Night,Cleanse → Apply hydrating toner → Use niacinamide serum → Moisturize richly,Keep your skincare routine fragrance-free.
+44,Hydration + Pore Care Morning Routine,Dry,Pores,Morning,Cleanse with hydrating gel cleanser → Apply hyaluronic acid + niacinamide serum → Use ceramide moisturizer → Apply SPF 50,Even dry skin can have clogged pores—exfoliate weekly.
+45,Hydration + Pore Care Night Routine,Dry,Pores,Night,Cleanse → Apply gentle exfoliating toner → Use peptide serum → Moisturize with barrier cream,Don’t skip moisturizer even if your skin feels oily at night.
+46,Anti-Aging + Pore Care Morning Routine,Normal,Wrinkles & Pores,Morning,Cleanse → Apply antioxidant serum → Use peptide moisturizer → Apply SPF 50 sunscreen,Combine anti-aging and pore care for smoother texture.
+47,Anti-Aging + Pore Care Night Routine,Normal,Wrinkles & Pores,Night,Double cleanse → Apply retinol → Use peptide cream → Apply hydrating night mask,Use retinol and peptides alternately if sensitivity occurs.
+48,Acne Recovery Morning Routine,Combination,Acne,Morning,Cleanse → Apply tea tree serum → Use oil-free moisturizer → Apply SPF 50,Use fresh pillowcases to reduce bacteria contact.
+49,Acne Recovery Night Routine,Combination,Acne,Night,Double cleanse → Apply exfoliating toner → Use niacinamide serum → Moisturize lightly,Introduce exfoliation gradually to avoid over-drying.
+50,Minimalist Pore Routine,Oily,Pores,Morning,Cleanse → Apply niacinamide serum → Moisturize → Apply SPF 50,Keep products simple and consistent for long-term pore improvement.
+51,Minimalist Pore Routine,Oily,Pores,Night,Cleanse → Use BHA toner → Apply retinoid → Moisturize lightly,Pat products gently; avoid rubbing your skin.
+52,Mattifying Morning Routine,Oily,Pores,Morning,Cleanse → Apply niacinamide + zinc serum → Use matte moisturizer → Apply SPF 50,Avoid occlusive products that trap oil.
+53,Mattifying Night Routine,Oily,Pores,Night,Cleanse → Apply exfoliating toner → Use retinoid → Moisturize lightly,Weekly clay masks help maintain clear pores.
+54,Balanced Routine for Combination Skin,Combination,Pores,Morning,Cleanse → Apply balancing toner → Use niacinamide serum → Moisturize with SPF,Treat oily areas differently from dry patches.
+55,Balanced Routine for Combination Skin,Combination,Pores,Night,Cleanse → Apply AHA toner → Use retinoid serum → Moisturize lightly,Avoid over-exfoliating combination skin.
+56,Hydrating Barrier Repair Routine,Sensitive,Dryness,Morning,Cleanse → Apply ceramide serum → Use nourishing cream → Apply SPF,Barrier repair helps reduce visible pores.
+57,Hydrating Barrier Repair Routine,Sensitive,Dryness,Night,Cleanse → Apply soothing toner → Use centella serum → Moisturize heavily,"Always use gentle, non-foaming cleansers."
+58,Anti-Stress Morning Routine,Normal,Sensitivity,Morning,Cleanse → Apply antioxidant serum → Use calming moisturizer → Apply SPF,Reduce caffeine intake and sleep well for healthy skin.
+59,Anti-Stress Night Routine,Normal,Sensitivity,Night,Cleanse → Use hydrating toner → Apply peptide serum → Moisturize,Avoid screens 1 hour before bed for better skin recovery.
+60,Complete Refining Routine,Oily,Pores,Morning,Cleanse → Apply niacinamide serum → Use gel moisturizer → Apply SPF 50,Stick to lightweight formulas to avoid clogging pores.
